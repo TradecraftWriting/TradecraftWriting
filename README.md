@@ -1,6 +1,6 @@
 # Read Me
 
-Hi, I'm Todd Brogowski. I'm a reporter and a photographer for *The Mountainair Dispatch*, a newspaper in rural New Mexico.
+Hi, I'm Todd Brogowski. I'm a reporter and a photographer for [*The Mountainair Dispatch*](https://www.mountainairdispatch.com), a newspaper in rural New Mexico.
 
 ## Current Projects
 - learning electronic music
