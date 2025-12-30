@@ -1,16 +1,21 @@
-## Hi there 👋
+# Read Me
 
-<!--
-**TradecraftWriting/TradecraftWriting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Todd Brogowski. I'm a reporter and a photographer for *The Mountainair Dispatch*, a newspaper in rural New Mexico.
 
-Here are some ideas to get you started:
+## Current Projects
+- learning electronic music
+- learning OSINT
+- learning macro photography
+  
+## Past Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ask Me About
+- Torrance County, NM, law and politics
+- Torrance County Detention Facility - a detention facility operated by CoreCivic for ICE, the US Marshals, and the Torrance County Sheriff's Department
+- Rurex/Urbex photography
+
+## How to Contact Me (Mountain Time; MST=UTC-7; MDT=UTC-6)
+todd@mountainairdispatch.com (business matters)
+todd@tradecraftwriting.com (personal matters)
+719-680-0923 
+
