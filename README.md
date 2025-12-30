@@ -15,7 +15,6 @@ Hi, I'm Todd Brogowski. I'm a reporter and a photographer for *The Mountainair D
 - Rurex/Urbex photography
 
 ## How to Contact Me (Mountain Time; MST=UTC-7; MDT=UTC-6)
-todd@mountainairdispatch.com (business matters)
-todd@tradecraftwriting.com (personal matters)
-719-680-0923 
+- todd@mountainairdispatch.com (business matters)
+- todd@tradecraftwriting.com (personal matters)
 
